@@ -1,0 +1,23 @@
+[392:7088:0509/203050.633:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[392:1628:0509/203050.836:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[392:7088:0509/203050.917:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[392:7088:0509/203108.045:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[392:7088:0509/203108.045:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[392:7088:0509/203108.046:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[392:7088:0509/203108.046:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[392:14024:0509/203108.125:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[7784:4040:0509/203113.402:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7784:4040:0509/203113.586:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7784:9100:0509/203113.620:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7784:9100:0509/203113.620:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7784:9100:0509/203113.622:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10860:17368:0509/203113.632:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10860:17368:0509/203113.635:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10860:17368:0509/203113.635:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10860:17368:0509/203113.635:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[7784:9100:0509/203113.635:WARNING:stun_port.cc(442)] Port[4c87800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7784:9100:0509/203113.635:WARNING:stun_port.cc(442)] Port[4c87c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7784:9100:0509/203113.635:WARNING:stun_port.cc(442)] Port[4d14800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6712:10968:0509/203131.495:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[392:7088:0509/203240.781:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[392:7088:0509/215913.267:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
